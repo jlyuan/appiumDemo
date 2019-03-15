@@ -1,0 +1,6 @@
+venv/
+.idea/
+report/
+report.html
+*.pyc
+__pycache__/
